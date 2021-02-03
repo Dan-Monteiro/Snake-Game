@@ -1,0 +1,17 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: #99B998;
+    background-color: #27363B;
+    font-family: spacemono;
+}
+
+@font-face {
+    font-family: spacemono;
+    src: url(/fonts/SpaceMono-Regular.ttf) format('truetype')
+}
